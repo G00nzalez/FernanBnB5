@@ -76,8 +76,8 @@ Los requisitos de esta aplicación son:
 
 ### Instalacion
 
-1. Descargar todos los archivos y meterlos en una misma carpeta nueva.
-3. Entramos en la carpeta src, buscamos el archivo "FernanBnB" y le damos botón derecho, enviar al escritorio.
+1. Descargar la carpeta FernanBnB.
+3. Entramos en la ruta FernanBnbn/target, buscamos el archivo "FernanBnB" y le damos botón derecho, enviar al escritorio.
 4. Vamos al escritorio y en el archivo "FernanBnB - Acceso Directo" hacemos botón derecho y ejecutar como administrador.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

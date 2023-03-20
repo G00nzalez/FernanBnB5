@@ -51,10 +51,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-Esto ha sido un proyecto realizado como práctica obligatoria del tema 3(Programación Orientada a Objetos). 
+Esto ha sido un proyecto realizado como práctica obligatoria del tema 5(Estructuras de datos). 
 
 <p align="right">(<a href="#readme-top">Vuelta hacia arriba</a>)</p>
-
 
 
 ### Creado con
